@@ -14,7 +14,8 @@
 
 ## PDPbox Partial dependence plotting for Sklearn
 
-[Gallery](https://github.com/DistrictDataLabs/yellowbrick)
+[GitHub](https://github.com/SauceCat/PDPbox)  
+[Medium article](https://towardsdatascience.com/introducing-pdpbox-2aa820afd312)
 
 
 ## Vaex : dataframes for large datasets
